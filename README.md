@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Pasidu Nethmina
 
-🎓 Electronics and Telecommunication Engineering undergraduate at the University of Moratuwa, Sri Lanka.
+I am a second-year undergraduate in Electronic and Telecommunication Engineering at the University of Moratuwa, with a strong focus on Computer Vision, Machine Learning, and Robotics. I am passionate about building intelligent systems that bridge software and hardware to solve real-world problems, and I’m driven by innovation at the intersection of AI and embedded technologies.
 
-🚀 Passionate about robotics, embedded systems, and intelligent automation.  
-💻 Interested in microcontroller programming, PCB design, computer vision, and IoT.
 
 ## 🛠️ Projects
 
