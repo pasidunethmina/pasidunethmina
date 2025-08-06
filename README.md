@@ -6,7 +6,7 @@
 
 - **Programming:** C/C++, Python, Arduino, Java
 - **Hardware Design:** Altium Designer, SolidWorks
-- **Tools & Platforms:** STM32, ESP32, Raspberry Pi, Webots, Git, GitHub  
+- **Tools & Platforms:** Raspberry Pi, Webots, Git, GitHub  
 
 ## 📫 Connect with Me
 
