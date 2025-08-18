@@ -24,6 +24,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pasidunethmina&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pasidunethmina&theme=radical&hide_border=false&layout=compact)
 
-![Metrics](https://github-readme-stats.vercel.app/api?username=pasidunethmina&show_icons=true&theme=radical)
 
-![Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pasidunethmina&theme=radical&utcOffset=5.5)
