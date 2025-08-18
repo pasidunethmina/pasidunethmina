@@ -24,4 +24,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pasidunethmina&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pasidunethmina&theme=radical&hide_border=false&layout=compact)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=pasidunethmina&theme=radical)
+![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pasidunethmina&theme=radical)
+![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pasidunethmina&theme=radical)
+![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pasidunethmina&theme=radical)
+![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pasidunethmina&theme=radical&utcOffset=5.5)
