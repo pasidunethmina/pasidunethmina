@@ -18,3 +18,8 @@
 &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/pasidunethmina)
 &nbsp;
+
+### 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yourusername&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=radical&hide_border=false&layout=compact)
