@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pasidu Nethmina
 
-**I am a third-year undergraduate in Electronic and Telecommunication Engineering at the University of Moratuwa, with a strong focus on Computer Vision, Machine Learning, and Robotics. I am passionate about building intelligent systems that bridge software and hardware to solve real-world problems, and I’m driven by innovation at the intersection of AI and embedded technologies.**
+**I am a third-year undergraduate in Electronic and Telecommunication Engineering at the University of Moratuwa, with a strong focus on Machine Learning, Computer Vision, IoT and Robotics. I am passionate about building intelligent systems that bridge software and hardware to solve real-world problems, and I’m driven by innovation at the intersection of AI and embedded technologies.**
 
 ## 🔧 Skills
 
